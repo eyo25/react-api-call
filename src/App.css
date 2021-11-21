@@ -1,0 +1,8 @@
+#style-card{
+  display: flex;
+  flex-direction: row;
+  background: gray;
+  flex: 1;
+  margin: 20px;
+  
+}
